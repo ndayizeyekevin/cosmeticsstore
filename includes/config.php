@@ -1,7 +1,7 @@
 <?php
 return [
-    'email_username'            => 'mayikissyou2twice@gmail.com',
-    'email_password'            => 'uqyg lzct rlir gpbn',
+    'email_username'            => '',
+    'email_password'            => '',
     'logo_url'                  => '../images/logo.png',
     'support_email'             => 'ndayizeye.kevin@outlook.com',
     'support_phone'             => '+250 786 591 604',
